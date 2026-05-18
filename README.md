@@ -1,2 +1,2 @@
-# vibration-simulator
-https://github.com/hanshendrickx/vibration-simulator creates a sample project for 
+# vibrations
+https://github.com/hanshendrickx/vibrations creates a sample project for 
